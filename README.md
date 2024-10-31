@@ -23,7 +23,6 @@ I'm always looking for interesting coding challenges to tackle. If you have a fu
 ## Contact
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/saleh-tariq/)
-- Email: [salehtariq@proton.me](mailto:salehtariq@proton.me)
 
 ---
 
